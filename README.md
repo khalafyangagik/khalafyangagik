@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hello and Welcome!
 
-<!--
-**khalafyangagik/khalafyangagik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I started using GitHub on **August 12, 2025**.  
+However, the projects and problem solutions in this repository were completed over the past year as part of the **Academy Wave 2.0** program.
 
-Here are some ideas to get you started:
+During this time, I focused on:
+- Solving algorithm and data structure problems
+- Learning C# and .NET concepts
+- Implementing design patterns and coding best practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Please note that while my GitHub activity is recent, the work reflects consistent learning and development throughout the program.
+
+---
+
+Feel free to check out my other profiles:  
+[LeetCode]([https://leetcode.com/u/gag_khalafyan/](https://leetcode.com/u/gag_khalafyan/))
