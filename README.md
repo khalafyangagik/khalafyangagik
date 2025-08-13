@@ -13,4 +13,4 @@ Please note that while my GitHub activity is recent, the work reflects consisten
 ---
 
 Feel free to check out my other profiles:  
-[LeetCode]([https://leetcode.com/u/gag_khalafyan/](https://leetcode.com/u/gag_khalafyan/))
+[LeetCode]([https://leetcode.com/u/gag_khalafyan/]
